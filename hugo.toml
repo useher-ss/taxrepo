@@ -1,0 +1,4 @@
+baseURL = 'https://taxre.cc'
+languageCode = 'en-us'
+title = 'Taxre.cc'
+theme = 'hugo-theme-tokiwa'
